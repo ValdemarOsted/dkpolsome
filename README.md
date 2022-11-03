@@ -6,10 +6,14 @@ Jeg har prioriteret at dataen ud så hurtigt så muligt. Så de detaljerede fork
 
 For nuværende indeholder datasættet følgende data:
 
+6. 19to22-FB-Interactions-MF
+
+  Udviklingen af interaktioner, følgere og videovisninger på månedlig basis fra 1. juni 2019 til 1. november 2022. For MF'ere, MEP'ere og nationale partisider.
+
 1. FV22-FB-Post
 
     Indeholder data på alle opslag lavet af alle politiske sider fra 5. oktober til 1. november. 
- 
+
 2. FV22-FB-Day-Pages-Interactions
     
     Mængden af interaktioner og videovisninger på daglig basis for alle sider fra 1. oktober til 1. november.
@@ -37,6 +41,8 @@ For nuværende indeholder datasættet følgende data:
 6. FV22-FB-Month-Ads-Party
 
    Mængden af penge brugt fra politiske partier samlet på partiniveau fra 1. oktober til 1. november.
+   
+ 
    
    
 ### Fremtiden
