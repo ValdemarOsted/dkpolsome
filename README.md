@@ -8,9 +8,13 @@ Jeg regner med inden for en måned, at have flettet data fra valget sammen på f
 
 For nuværende indeholder datasættet følgende data:
 
+## Generelt
+
 6. 19to22-FB-Interactions-MF
 
   Udviklingen af interaktioner, følgere og videovisninger på månedlig basis fra 1. juni 2019 til 1. november 2022. For MF'ere, MEP'ere og nationale partisider.
+  
+## FV22
 
 #### Opslag
 
