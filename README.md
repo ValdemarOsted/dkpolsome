@@ -76,9 +76,9 @@ Jeg regner med at lave en lidt mere detaljeret README en gang i februar.
 
 Indtil da kan du finde en del mere information på de forskellige variabler og indsamlingsmetoder her:
 
-politiskannoncering.dk
+https://politiskannoncering.dk
 
-dkpolpåsome.dk
+https://dkpolpåsome.dk
 
 Alternativt er der forklaringer på metrics fra CrowdTangle her:
 https://help.crowdtangle.com/en/articles/1184978-crowdtangle-glossary
