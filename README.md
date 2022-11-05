@@ -4,6 +4,8 @@ Jeg har prioriteret at dataen ud så hurtigt så muligt. Så detaljerede forklar
 
 Jeg regner med inden for en måned, at have flettet data fra valget sammen på folketingskandidaterne - så man kan se antal stemmer, storkreds osv.
 
+Jeg lægger alt min data ud med den eneste betingelse, at du lover at skrive til mig, hvis du har brugt den :)
+
 ## Overblik
 
 For nuværende indeholder datasættet følgende data:
