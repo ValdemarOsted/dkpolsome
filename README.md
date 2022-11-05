@@ -8,9 +8,17 @@ Jeg regner med inden for en måned, at have flettet data fra valget sammen på f
 
 For nuværende indeholder datasættet følgende data:
 
-6. 19to22-FB-Interactions-MF
+## Generelt
 
-  Udviklingen af interaktioner, følgere og videovisninger på månedlig basis fra 1. juni 2019 til 1. november 2022. For MF'ere, MEP'ere og nationale partisider.
+1. 19to22-FB-Interactions-MF
+
+    Udviklingen af interaktioner, følgere og videovisninger på månedlig basis fra 1. juni 2019 til 1. november 2022. For MF'ere, MEP'ere og nationale       partisider.
+    
+2. 19to22-FB-Interactions-Party
+
+     Udviklingen af interaktioner, følgere og videovisninger på månedlig basis fra 1. januar 2019 til 1. november 2022 på partiniveau. For 3.300 politiske sider i Danmark.
+  
+## FV22
 
 #### Opslag
 
@@ -42,7 +50,7 @@ For nuværende indeholder datasættet følgende data:
 
    Mængden af penge brugt fra politiske partier samlet på partiniveau på daglig basis fra 1. oktober til 1. november.
    
-5. FV22-FB-Month-Ads-Pages
+7. FV22-FB-Month-Ads-Pages
 
    Mængden af penge brugt fra politiske sider I ALT fra 3. oktober til 1. november. (Teknik gør det til 3. og ikke 5.)
    
@@ -55,10 +63,12 @@ Planen er at tilføje følgende datasæt når jeg får tid.
 
 1. Udviklingen af TikTok interaktioner og videovisninger i de sidste 5-6 uger af valget
 2. Et datasæt med de mest sete TikToks og måske bare data på alle TikToks under valget
-3. Måske et datasæt med data på opslag lavet af alle politiske sider siden FV19. 
+3. Måske et datasæt med opslag lavet af alle politiske sider siden FV19. 
 4. Udviklingen i interaktioner fra alle MF'ere siden FV19. 
 5. Alle opslag lavet af MF'ere mellem FV19 og FV22. 
 6. Måske data på Instagram interaktioner. 
+
+Har du nogen særlige ønsker så send mig en mail på valdemarosted@gmail.com.
 
 ## Generelt
 
