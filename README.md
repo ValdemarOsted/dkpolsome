@@ -1,6 +1,8 @@
 # Data på dansk politik på sociale medier
 
-Jeg har prioriteret at dataen ud så hurtigt så muligt. Så de detaljerede forklaringer kommer først senere.
+Jeg har prioriteret at dataen ud så hurtigt så muligt. Så detaljerede forklaringer kommer først senere. Se i bunden for variabelforklaringer.
+
+Jeg regner med inden for en måned, at have flettet data fra valget sammen på folketingskandidaterne - så man kan se antal stemmer, storkreds osv.
 
 ## Overblik
 
@@ -62,7 +64,7 @@ Planen er at tilføje følgende datasæt når jeg får tid.
 
 Jeg regner med at lave en lidt mere detaljeret README en gang i februar. 
 
-Indtil da kan du finde en del mere information på de forskellige metrics og indsamlingsmetoder her:
+Indtil da kan du finde en del mere information på de forskellige variabler og indsamlingsmetoder her:
 
 politiskannoncering.dk
 
