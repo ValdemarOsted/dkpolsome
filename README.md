@@ -6,7 +6,7 @@ Jeg regner med inden for en måned, at have flettet data fra valget sammen på f
 
 Jeg lægger alt min data ud med den eneste betingelse, at du lover at skrive til mig, hvis du har brugt den :)
 
-I nogen af datasættene har jeg ikke flettet parti, køn, partileder og kategori (MF'er, MEP'er eller nationalt parti) på dataen. Den data kan du finde under "Lister --> List-FB-AllePolitikere". Brug Page ID til at matche.
+I nogen af datasættene har jeg ikke flettet parti, køn, partileder og kategori (MF'er, MEP'er eller nationalt parti) på dataen. Den data kan du finde under "Lister --> List-FB-AllePolitikere". Brug Page ID til at matche. Den kan evt. findes under URL kolonnen. 
 
 -----------------------
 
