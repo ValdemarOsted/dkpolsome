@@ -6,6 +6,7 @@ Jeg regner med inden for en måned, at have flettet data fra valget sammen på f
 
 Jeg lægger alt min data ud med den eneste betingelse, at du lover at skrive til mig, hvis du har brugt den :)
 
+I nogen af datasættene har jeg ikke flettet parti, køn, partileder og kategori (MF'er, MEP'er eller nationalt parti) på dataen. Den data kan du finde under "Lister --> List-FB-AllePolitikere". Brug Page ID til at matche.
 
 -----------------------
 
@@ -27,9 +28,13 @@ For nuværende indeholder datasættet følgende data:
 
 ## Lister
 
-1. List-FB-MF'ere-okt2022
+1. List-FB-AllePolitikere
     
-    Oversigt over danske MF'ere i oktober 2022. Inklusiv partinavn, køn, link og om de er partiledere. Bemærk jeg har inkluderet Inger Støjberg. 
+    Oversigt over alle danske politikere og politiske sider. Over 4.800 for nu. 1300+ er desværre blevet slettet efterfølgende. Inklusiv parti, køn, link, kategori (MF'ere, MEP'er og Nationalt parti) og om de er partiledere. Jeg mangler at rette MF'ere til det nye folketing.
+
+2. List-FB-MF'ere-okt2022
+    
+    Oversigt over danske MF'ere i oktober 2022. Inklusiv parti, køn, link og om de er partiledere. Bemærk jeg har inkluderet Inger Støjberg. 
 
 ## 19 til 22
 
