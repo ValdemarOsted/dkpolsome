@@ -48,7 +48,7 @@ For nuværende indeholder datasættet følgende data:
      
 3. 2022-FB-Post-MF'ere
 
-    Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg sider fra 1. januar til 1. november. 
+    Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg fra 1. januar 2022 til 1. november 2022. 
   
 ## FV22
 
