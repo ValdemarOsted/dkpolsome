@@ -10,6 +10,11 @@ Jeg lægger alt min data ud med den eneste betingelse, at du lover at skrive til
 
 For nuværende indeholder datasættet følgende data:
 
+## Lister
+
+1. List-FB-MF'ere-okt2022
+    Oversigt over danske MF'ere i oktober 2022. Inklusiv partinavn, køn, link og om de er partiledere. Bemærk jeg har inkluderet Inger Støjberg. 
+
 ## 19 til 22
 
 1. 19to22-FB-Interactions-MF
@@ -19,6 +24,10 @@ For nuværende indeholder datasættet følgende data:
 2. 19to22-FB-Interactions-Party
 
      Udviklingen af interaktioner, følgere og videovisninger på månedlig basis fra 1. januar 2019 til 1. november 2022 på partiniveau. For 3.300 politiske sider i Danmark.
+     
+3. 2022-FB-Post-MF'ere
+
+    Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg sider fra 1. januar til 1. november. 
   
 ## FV22
 
@@ -27,6 +36,10 @@ For nuværende indeholder datasættet følgende data:
 1. FV22-FB-Post
 
     Indeholder data på alle opslag lavet af alle politiske sider fra 5. oktober til 1. november. 
+    
+2. FV22-FB-Post-MF'ere
+
+    Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg sider fra 5. oktober til 1. november. 
     
 #### Interaktioner og følgere 
 
