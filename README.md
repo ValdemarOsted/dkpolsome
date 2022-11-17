@@ -116,7 +116,6 @@ For nuværende indeholder datasættet følgende data:
 
 Planen er at tilføje følgende datasæt når jeg får tid.
 
-1. Udviklingen af TikTok interaktioner og videovisninger i de sidste 5-6 uger af valget
 2. Et datasæt med de mest sete TikToks og måske bare data på alle TikToks under valget
 3. Måske et datasæt med opslag lavet af alle politiske sider siden FV19. 
 4. Udviklingen i interaktioner fra alle MF'ere siden FV19. 
