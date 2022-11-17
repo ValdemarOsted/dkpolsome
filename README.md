@@ -1,5 +1,12 @@
 # Data på dansk politik på sociale medier
 
+Du kan se dataen visualiseret her:
+
+https://dkpolpåsome.dk
+
+og her:
+https://politiskannoncering.dk/
+
 Jeg har prioriteret at dataen ud så hurtigt så muligt. Så detaljerede forklaringer kommer først senere. Se i bunden for variabelforklaringer.
 
 Jeg regner med inden for en måned, at have flettet data fra valget sammen på folketingskandidaterne - så man kan se antal stemmer, storkreds osv.
@@ -7,6 +14,8 @@ Jeg regner med inden for en måned, at have flettet data fra valget sammen på f
 Jeg lægger alt min data ud med den eneste betingelse, at du lover at skrive til mig, hvis du har brugt den :)
 
 I nogen af datasættene har jeg ikke flettet parti, køn, partileder og kategori (MF'er, MEP'er eller nationalt parti) på dataen. Den data kan du finde under "Lister --> List-FB-AllePolitikere". Brug Page ID til at matche. Den kan evt. findes under URL kolonnen. 
+
+
 
 -----------------------
 
