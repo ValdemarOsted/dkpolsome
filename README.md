@@ -35,6 +35,10 @@ For nuværende indeholder datasættet følgende data:
 2. List-FB-MF'ere-okt2022
     
     Oversigt over danske MF'ere i oktober 2022. Inklusiv parti, køn, link og om de er partiledere. Bemærk jeg har inkluderet Inger Støjberg. 
+    
+3. List-TikTok-AllePolitikere
+    
+    Oversigt over danske politiske sider på TikTok. 210+ lige nu. 
 
 ## 19 til 22
 
@@ -51,6 +55,12 @@ For nuværende indeholder datasættet følgende data:
     Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg fra 1. januar 2022 til 1. november 2022. 
   
 ## FV22
+
+#### TikTok
+
+1. FV22-TikTok-Interaktioner-Week
+
+    Indeholder data på interaktioner får 210+ politiske sider på TikTok. Primært partisider og folketingskandidater. Se listen under "Lister".
 
 #### Opslag
 
