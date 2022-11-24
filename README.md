@@ -62,6 +62,10 @@ For nuværende indeholder datasættet følgende data:
 3. 2022-FB-Post-MF'ere
 
     Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg fra 1. januar 2022 til 1. november 2022. 
+
+4. 19to22-FB-Post-Partiledere
+
+    Indeholder data på alle opslag lavet af alle partilederne i oktober 2022 fra 6. juni 2019 til 1. november 2022. 
   
 ## FV22
 
