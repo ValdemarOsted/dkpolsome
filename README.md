@@ -81,6 +81,10 @@ For nuværende indeholder datasættet følgende data:
 
     Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg sider fra 5. oktober til 1. november. 
     
+3. FV22-FB-Post-Partiledere
+
+    Indeholder data på alle opslag lavet af partilederne under FV22 fra 5. oktober til 1. november. 
+    
 #### Interaktioner og følgere 
 
 2. FV22-FB-Day-Pages-Interactions
