@@ -59,6 +59,18 @@ For nuværende indeholder datasættet følgende data:
 
      Udviklingen af interaktioner, følgere og videovisninger på månedlig basis fra 1. januar 2019 til 1. november 2022 på partiniveau. For 3.300 politiske sider i Danmark.
      
+3. 2019-6june-FB-Post-MF'ere
+
+    Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg fra 6. juni 2019 til 31. december 2019. 
+    
+3. 2020-FB-Post-MF'ere
+
+    Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg fra 1. januar 2020 til 31. december 2020
+    
+3. 2021-FB-Post-MF'ere
+
+    Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg fra 1. januar 2021 til 31. december 2021. 
+    
 3. 2022-FB-Post-MF'ere
 
     Indeholder data på alle opslag lavet af MF'ere inklusiv Inger Støjberg fra 1. januar 2022 til 1. november 2022. 
